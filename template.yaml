@@ -8,4 +8,4 @@ Type: AWS::S3::Bucket
 Outputs:
 BucketName:
 Description: Name of the created S3 bucket
-Value: !Ref TestBucket
+Value: !Ref TestBucketet
